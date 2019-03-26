@@ -1,4 +1,8 @@
-""" Convert Numpy or image files to tfrecords"""
+""" Convert Numpy or image files to tfrecords
+
+author: sagunkayastha
+
+"""
 
 
 import numpy as np
